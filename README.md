@@ -1,8 +1,8 @@
-Introduction to data Science
+# Introduction to data Science
 
- =>  PANDAS start with dataframe importing csv file diffrent methods and plotting graphs
+ *  PANDAS start with dataframe importing csv file diffrent methods and plotting graphs
 PANDAS,
-=> NUMPY , calculate Mean and Median
+* NUMPY , calculate Mean and Median
 
-=> MATPLOT to plot Graphs
-=> Scipy
+* MATPLOT to plot Graphs
+* Scipy
